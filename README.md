@@ -1,3 +1,3 @@
 # Investigate
-This work consist of exploring a dataset
-We are going to wrangle the data
+This work consist of exploring and analysing a dataset
+a no show appointement for medical care data.
